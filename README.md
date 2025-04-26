@@ -75,7 +75,6 @@ heart-disease-ml/
 │
 ├── heart_disease_prediction.ipynb   # Full Jupyter notebook
 ├── README.md                        # Project overview
-
 ---
 
 ## ✍️ Author
