@@ -70,13 +70,6 @@ The goal is to compare the models’ performance and evaluate which one is most 
 
 ---
 
-## Project Structure
-heart-disease-ml/
-│
-├── heart_disease_prediction.ipynb   # Full Jupyter notebook
-├── README.md                        # Project overview
----
-
 ## ✍️ Author
 - Riley Coleman  
 ---
